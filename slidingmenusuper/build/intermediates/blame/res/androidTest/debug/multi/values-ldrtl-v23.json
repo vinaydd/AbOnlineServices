@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldrtl-v23/values-ldrtl-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/values-ldrtl-v23/values-ldrtl-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 112,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]

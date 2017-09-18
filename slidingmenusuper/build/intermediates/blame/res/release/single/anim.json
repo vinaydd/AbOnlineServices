@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/anim/abc_popup_exit.xml"
+    }
+]

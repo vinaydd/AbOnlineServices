@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/sharadsingh/Desktop/AndroidTestingProjects/AbOnlineServices/slidingmenusuper/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sharadsingh/.android/build-cache/60be78f42bbd37b539e9484946e00aa67232a849/output/res/values-h320dp/values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 57,
+                        "endOffset": 342
+                    }
+                }
+            }
+        ]
+    }
+]

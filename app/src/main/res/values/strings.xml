@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Meterial</string>
+    <string name="billPayments">BillPayments</string>
+    <string name="moneyTransfer">MoneyTransfer</string>
+    <string name="reports">Reports</string>
+    <string name="setting">Setting</string>
+</resources>
